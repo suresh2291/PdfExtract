@@ -1,0 +1,7 @@
+ flask
+ PyPDF2
+ pytesseract 
+ pdf2image
+ Pillow
+ asyncio
+ joblib
